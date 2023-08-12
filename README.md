@@ -1,4 +1,4 @@
-# CokFoksiyonluSesliAsistan
+# Voice Assistant
 
 - Basit diyaloglara cevap verebilme
 - İstenilen videoyu açabilme
