@@ -1,4 +1,4 @@
-# Voice Assistant
+# VoiceAssistant
 
 - Basit diyaloglara cevap verebilme
 - İstenilen videoyu açabilme
